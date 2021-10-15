@@ -1,7 +1,7 @@
-import { WASocket } from "@adiwajshing/baileys-md/src";
-import { EventEmitter } from "events";
+import { EventEmitter} from "events";
+import { WASocket } from "@adiwajshing/baileys-md"
 
-export declare class createEvents extends EventEmitter {
-	constructor(client: WASocket) 
-
+export declare class createEvents {
+	getEvents: (event: EventEmitter, client: WASocket) => void;
+	runScript: (event: EventEmitter, client: WASocket) => void;
 }
