@@ -1,5 +1,5 @@
-const createConnection  = require("./lib/routers/client/client.js")
+const { createConnection } = require("./lib/routers/client/client")
 
 
 
-new createConnection ()
+new createConnection();
