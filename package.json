@@ -1,0 +1,38 @@
+{
+  "name": "whatsapp_multi",
+  "version": "1.0.0",
+  "description": "rayyreall & manu bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayyreall/Whatsapp-Multi.git"
+  },
+  "keywords": [
+    "Whatsapp-bot",
+    "whatsapp",
+    "botwa",
+    "wabot",
+    "multi-device",
+    "multi",
+    "whatsapp-multi",
+    "multi-whatsapp",
+    "baileys",
+    "multidevice"
+  ],
+  "author": "rayyreall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rayyreall/Whatsapp-Multi/issues"
+  },
+  "homepage": "https://github.com/rayyreall/Whatsapp-Multi#readme",
+  "dependencies": {
+    "@adiwajshing/baileys-md": "github:adiwajshing/Baileys#multi-device",
+    "axios": "^0.23.0",
+    "chalk": "^4.1.2",
+    "pino": "^7.0.1"
+  }
+}
