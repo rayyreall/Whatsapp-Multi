@@ -7,3 +7,4 @@ Bot whatsapp Baileys Support Multi Device Open!!
 Manu Beban
 
 ### Belom Gua Tes Modal Insting doang
+## Belom Jadi + Belom Selese w tes
