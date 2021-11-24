@@ -34,7 +34,7 @@
     "axios": "^0.23.0",
     "chalk": "^4.1.2",
     "dotenv": "^10.0.0",
-    "file-type": "^16.5.3",
+    "file-type": "^17.0.0",
     "got": "^11.8.2",
     "moment-timezone": "^0.5.33",
     "pino": "^7.0.1"
