@@ -32,7 +32,7 @@
   "dependencies": {
     "@adiwajshing/baileys-md": "github:adiwajshing/Baileys#multi-device",
     "axios": "^0.23.0",
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.0",
     "dotenv": "^10.0.0",
     "file-type": "^16.5.3",
     "got": "^11.8.2",
